@@ -89,7 +89,7 @@ fedora_deps() {
     'gcc-c++' \
     'flatpak-builder' \
     'fontconfig-devel' \
-    'openssl-devel' \
+    'openssl-devel-engine' \
     'perl-interpreter' \
     'python3' \
     'python3-pip' \
